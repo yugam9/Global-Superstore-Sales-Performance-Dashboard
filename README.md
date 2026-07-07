@@ -1,6 +1,6 @@
 # Global Superstore Sales Performance Dashboard
 
-![Dashboard Preview](Screenshot%202026-07-07%20212316.png)
+![Dashboard Preview](Dashboard_Preview.png)
 
 ## Project Overview
 Interactive Power BI dashboard built using the Global Superstore dataset.
